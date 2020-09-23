@@ -1,4 +1,4 @@
-## UCAS_Porjects
+## UCAS_Projects
 - DataMining
 - Advanced artificial intelligence
 - PRML
